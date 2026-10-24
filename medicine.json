@@ -1,0 +1,291 @@
+[
+  {
+    "id": "seed-paracetamol",
+    "source_record_id": "seed-paracetamol",
+    "version": "1",
+    "generic_name": "Paracetamol (Acetaminophen)",
+    "aliases": [
+      "paracetamol",
+      "acetaminophen",
+      "apap"
+    ],
+    "brand_names": [
+      "Tylenol",
+      "Panadol",
+      "Crocin"
+    ],
+    "category": "Pain reliever and fever reducer",
+    "normal_use": [
+      "Taken by mouth, with or without food",
+      "Meant for short-term relief of mild pain or fever",
+      "Follow the product label for the amount and the maximum in 24 hours, and never exceed it",
+      "Check cold, flu and other combination products, which may also contain paracetamol",
+      "If pain or fever continues or gets worse, stop and seek medical advice"
+    ],
+    "uses": [
+      "Temporary relief of minor aches and pains",
+      "Temporary reduction of fever"
+    ],
+    "side_effects": [
+      "Usually well tolerated when used correctly",
+      "Rarely, serious allergic or skin reactions",
+      "Overdose can cause severe liver damage"
+    ],
+    "contraindications": [
+      "Known allergy to paracetamol or product ingredients"
+    ],
+    "precautions": [
+      "Liver disease or regular heavy alcohol use",
+      "Avoid taking multiple products containing paracetamol",
+      "Follow the specific product label or professional advice"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "DailyMed - official US drug labeling",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=acetaminophen",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  },
+  {
+    "id": "seed-ibuprofen",
+    "source_record_id": "seed-ibuprofen",
+    "version": "1",
+    "generic_name": "Ibuprofen",
+    "aliases": [
+      "ibuprofen"
+    ],
+    "brand_names": [
+      "Advil",
+      "Motrin",
+      "Brufen"
+    ],
+    "category": "Non-steroidal anti-inflammatory drug (NSAID)",
+    "normal_use": [
+      "Usually taken by mouth with food or milk to reduce stomach upset",
+      "Use the lowest amount that works for the shortest time",
+      "Follow the product label for the amount and time between doses",
+      "Do not combine with other NSAIDs such as aspirin or naproxen unless a clinician advises it",
+      "If pain or fever continues or gets worse, stop and seek medical advice"
+    ],
+    "uses": [
+      "Relief of certain types of mild to moderate pain",
+      "Reduction of inflammation",
+      "Relief of fever"
+    ],
+    "side_effects": [
+      "Stomach discomfort, nausea or indigestion",
+      "Possible stomach ulcer or gastrointestinal bleeding",
+      "Possible kidney and cardiovascular complications"
+    ],
+    "contraindications": [
+      "Known allergy to ibuprofen or relevant product ingredients",
+      "Previous serious allergic or asthma reaction to aspirin or other NSAIDs",
+      "Use for perioperative pain in coronary artery bypass graft surgery"
+    ],
+    "precautions": [
+      "History of stomach ulcers or bleeding",
+      "Kidney disease, heart disease or high blood pressure",
+      "Pregnancy, especially later pregnancy",
+      "Potential interactions with blood thinners and other medicines"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "DailyMed - official US drug labeling",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=ibuprofen",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  },
+  {
+    "id": "seed-aspirin",
+    "source_record_id": "seed-aspirin",
+    "version": "1",
+    "generic_name": "Aspirin",
+    "aliases": [
+      "aspirin",
+      "acetylsalicylic acid",
+      "asa"
+    ],
+    "brand_names": [
+      "Bayer",
+      "Ecosprin",
+      "Disprin"
+    ],
+    "category": "Salicylate; pain reliever and antiplatelet drug",
+    "normal_use": [
+      "Taken by mouth with a full glass of water, often with food",
+      "Use for pain or fever differs from prescribed low-dose aspirin, so follow the label or your prescriber",
+      "Do not give to children or teenagers with a viral illness unless a clinician directs it",
+      "Do not start or stop prescribed low-dose aspirin without medical advice"
+    ],
+    "uses": [
+      "Relief of certain types of pain and fever",
+      "Antiplatelet treatment for selected patients when prescribed"
+    ],
+    "side_effects": [
+      "Stomach irritation or indigestion",
+      "Increased bleeding",
+      "Possible stomach ulcers or gastrointestinal bleeding"
+    ],
+    "contraindications": [
+      "Known aspirin allergy",
+      "Active significant bleeding",
+      "Children or teenagers with viral illness unless specifically directed by a clinician"
+    ],
+    "precautions": [
+      "History of ulcers, bleeding disorders or asthma reactions to NSAIDs",
+      "Use with anticoagulants or other medicines that increase bleeding",
+      "Do not start or stop prescribed low-dose aspirin without medical advice"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "MedlinePlus - aspirin drug information",
+    "source_url": "https://medlineplus.gov/druginfo/meds/a682878.html",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  },
+  {
+    "id": "seed-cetirizine",
+    "source_record_id": "seed-cetirizine",
+    "version": "1",
+    "generic_name": "Cetirizine",
+    "aliases": [
+      "cetirizine"
+    ],
+    "brand_names": [
+      "Zyrtec",
+      "Cetzine"
+    ],
+    "category": "Antihistamine",
+    "normal_use": [
+      "Taken by mouth, with or without food",
+      "The product label states how often to take it",
+      "It can cause drowsiness, so see how it affects you before driving",
+      "Avoid alcohol and other sedating medicines unless a clinician advises otherwise"
+    ],
+    "uses": [
+      "Relief of symptoms of allergic rhinitis",
+      "Relief of itching and hives"
+    ],
+    "side_effects": [
+      "Drowsiness or fatigue",
+      "Dry mouth",
+      "Possible dizziness"
+    ],
+    "contraindications": [
+      "Known allergy to cetirizine or relevant product ingredients"
+    ],
+    "precautions": [
+      "Kidney disease may require professional assessment",
+      "Drowsiness can affect driving or operating machinery",
+      "Alcohol and sedating medicines may increase drowsiness"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "MedlinePlus - cetirizine drug information",
+    "source_url": "https://medlineplus.gov/druginfo/meds/a698026.html",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  },
+  {
+    "id": "seed-amoxicillin",
+    "source_record_id": "seed-amoxicillin",
+    "version": "1",
+    "generic_name": "Amoxicillin",
+    "aliases": [
+      "amoxicillin",
+      "amoxycillin"
+    ],
+    "brand_names": [
+      "Amoxil",
+      "Novamox"
+    ],
+    "category": "Penicillin antibiotic",
+    "normal_use": [
+      "Prescription medicine: take it exactly as prescribed",
+      "Can usually be taken with or without food",
+      "Complete the course unless your prescriber tells you to stop",
+      "Do not share it or save leftovers for later",
+      "Contact your prescriber if you get no improvement, a rash, or severe or persistent diarrhoea"
+    ],
+    "uses": [
+      "Treatment of certain susceptible bacterial infections",
+      "Use depends on the infection and clinical assessment"
+    ],
+    "side_effects": [
+      "Nausea, vomiting or diarrhoea",
+      "Skin rash",
+      "Rarely, severe allergic reactions"
+    ],
+    "contraindications": [
+      "Serious hypersensitivity to amoxicillin or relevant penicillins"
+    ],
+    "precautions": [
+      "Previous severe reactions to beta-lactam antibiotics",
+      "Kidney problems",
+      "Severe or persistent diarrhoea requires medical assessment",
+      "Antibiotics do not treat viral infections"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "MedlinePlus - amoxicillin drug information",
+    "source_url": "https://medlineplus.gov/druginfo/meds/a685001.html",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  },
+  {
+    "id": "seed-omeprazole",
+    "source_record_id": "seed-omeprazole",
+    "version": "1",
+    "generic_name": "Omeprazole",
+    "aliases": [
+      "omeprazole"
+    ],
+    "brand_names": [
+      "Prilosec",
+      "Omez"
+    ],
+    "category": "Proton pump inhibitor",
+    "normal_use": [
+      "Usually taken by mouth before a meal, commonly before breakfast",
+      "Swallow delayed-release capsules or tablets whole; do not crush or chew",
+      "Non-prescription use is for short courses; ask a clinician if you need it for longer",
+      "Follow the product label or prescriber for how long to take it"
+    ],
+    "uses": [
+      "Treatment of certain acid-related conditions",
+      "Treatment of gastroesophageal reflux and ulcers in appropriate cases"
+    ],
+    "side_effects": [
+      "Headache",
+      "Abdominal pain, nausea or diarrhoea",
+      "Long-term use can have additional risks"
+    ],
+    "contraindications": [
+      "Known allergy to omeprazole or relevant product ingredients",
+      "Certain interacting medicines may make use inappropriate"
+    ],
+    "precautions": [
+      "Review all medicines for potential interactions",
+      "Persistent or alarming symptoms require medical assessment",
+      "Long-term treatment should be reviewed by a clinician"
+    ],
+    "warnings": [],
+    "drug_interactions": [],
+    "source_name": "MedlinePlus - omeprazole drug information",
+    "source_url": "https://medlineplus.gov/druginfo/meds/a693050.html",
+    "jurisdiction": "United States",
+    "retrieved_at": null,
+    "review_status": "pending",
+    "reviewed_by": null
+  }
+]
